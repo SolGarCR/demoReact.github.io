@@ -1,0 +1,153 @@
+{
+  "main": {
+    "name":"Piensa Lu3go Existe",
+    "description":"Programa creado para que las personas con deseos de aprender mas de la personalidad puedan tener mejores herramientas",
+    "image":"think.jpg",
+    "bio":"Un dia de cafe fue mas que una idea fue un sueño. El caminar por este mundo no tiene que ser algo complejo, se puede volver la gran busqueda de la felicidad.",
+    "contactmessage":"Puedes escribirnos y asi conocerte...",
+    "email": "piensalu3goexiste@gmail.com",
+    "phone": "+506 8888888",
+    "github":"./Components/test.js",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"Cartago",
+      "city":"Paraiso-Cartago"
+    },
+    "website": "http://www.google.com",
+    "resumedownload":"http://google.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"TEC",
+        "degree":"Bachiller",
+        "graduated":"April 2002",
+        "description":"Parte importante del proceso de crecimiento, donde se aprende a aprender"
+      },
+      {
+        "school":"Cenfotec",
+        "degree":"Pos-Grado",
+        "graduated":"Mayo 2022",
+        "description":"UpDate"
+      }
+    ],
+    "work":[
+      {
+        "company":"Novacomp",
+        "title":"Lider Tecnico",
+        "years":"March 2006 - Present",
+        "description":"Describe work, special books, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Moobi",
+        "title":"Junior Front End",
+        "years":"May 2022 - Present",
+        "description":"Describe work, special books, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "books": [
+      {
+        "title":"El poder del ahora",
+        "category":"Autoayuda",
+        "image":"01.jpg",
+        "url":"https://www.google.com/search?rlz=1C1ALOY_es&sxsrf=ALiCzsbxHkQf1kbm32d68-PdL87NBSep6w:1653963991655&q=El+poder+del+Ahora&stick=H4sIAAAAAAAAAE1UO2zTUBSNQxtSt5R8QECnECRUCiL-O2EJiJYJhFSKxFQrz984fu_52W5ie0RiRahSu1ZCQmJgYwOEIjYyMBQJMUHFBhIgmJgo_dgOm4_Pu_ecd-61i5N1ugEbDK9KhgK5qtMFHvZrml7rrAW4E61pnRH134kEcAQxg3hEHWuYDZY1eXNgM7GakJLMiyhMSeTyptTXlBQDEUqOEgojamYfcwC6JtPvp7QhsqEcIjCipvZ7iaJBUMpZDNMTkBkkXNOHTS3VRLyzDw4PqqLCO4wlp9gfaH0exMpYBIRh6KpjT06kKRKTYtJqQQJCmAnLrCiFPkix53s2K7a4xAjXR0ROnlm7L8eJKd-UbdvLiuyWrKiETzE0IzMmJDPhAcOOe0hMgmEFkYSR72ceOGNgNRFJeguRqzBwHCKwREFLPTicZqV1jiVaPJEybGoBLylqZgMMXF9ryb1xdrzlQtZOdGxBINDKRBETZyl7iDOVwInHKRmIc5AxoqYPTHGsyKkgKQWSpZAwnVyLV5RUQAo8x84mFUURowpZT0NwoRm42TZ5qsECvpVN1mA9QxG08baZHghiyKRrQYhhpUsrCkAA8jiyHguF7Nqm6cke0qIv1FZ-uvT1z6fq3EZ-_dnbD9TDPF26ibGvO9Gy7nQCXVvBlct0YQkF3SCqzM7N0IffhEtstc-doA8b9qSeamlNt7S1s0lV7tLTd_RgBd_CWteIKjcqi_TULR0C3fNvG5VzNH0dO46uBl2MKifnqnS5oWYvGgDjnl-fXT7IDgR7wxtS-Sv5-XydcKsvtjffFe6Vt3_s7p45unx1bn6hTBcWMex0UfnBpVefL7z_2V6o0sWVTogRhlH518f13dKTb-362an68fPD2b_f2-XVydzOy1PM8PSRGjU_wT5vT-xs_L44XMjtCd1__fRNoVikSjkuX8zFuZnHk5Ulp-ZiTff2fhRO7ZqFvc6jAvUPxHgRSEwEAAA&sa=X&ved=2ahUKEwimjMaB2Ij4AhUaSTABHaZrDLUQ-BZ6BAgZEAY&lei=13yVYubEJ5qSwbkPptexqAs"
+      },
+      {
+        "title":"Tus zonas erroneas",
+        "category":"Autoayuda",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Como hacer que ...",
+        "category":"Autoayuda",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"El monge que vendio su ...",
+        "category":"Autoayuda",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Encuentra tu persona ...",
+        "category":"Autoayuda",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"El arte de no amargarse ...",
+        "category":"Autoayuda",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Los cuatro acuerdos",
+        "category":"Autoayuda",
+        "image":"07.jpg",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  }
+}
